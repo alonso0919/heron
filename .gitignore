@@ -1,0 +1,20 @@
+# Variables de entorno - NUNCA subir a GitHub
+.env
+
+# Base de datos
+*.sql
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencias
+vendor/
+node_modules/
+
+# Temporales
+*.tmp
+*.cache
