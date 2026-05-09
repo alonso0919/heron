@@ -35,6 +35,6 @@ Integracion de pagos reales y manejo de webhooks en produccion
 Generacion de facturas electronicas con estandares SAT Mexico
 Arquitectura limpia separando API, configuracion, utilidades y vistas
 
-AUTOR (para clase de metodologia no-code)
+Low-code Autor
 Gabriel Alonso
 github.com/alonso0919
